@@ -1,9 +1,5 @@
 ## Library Management Application
 
-**Course:** SWE203  
-**Student:** SEVDA ŞAHİN TİLKİ  
-**Student Number:** 245060033  
-
 ---
 
 ### Project Description
