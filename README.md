@@ -1,7 +1,7 @@
 # Library Management Application
 
 **Course:** SWE203  
-**Student:** SEVDA ÞAHÝN TÝLKÝ  
+**Student:** SEVDA ÅžAHÄ°N TÄ°LKÄ°  
 **Student Number:** 245060033  
 **GitHub Repository:**  
 https://github.com/SevdaST/LibraryManagementSystem.git
